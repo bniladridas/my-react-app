@@ -114,7 +114,7 @@ To personalize:
 [MIT LICENSE](LICENSE)
 
 ## 📞 Contact
-Your Name
+Niladri Das
 - Email: [Press](mailto:ndas1262000@gmail.com)
 - LinkedIn: [Visit](https://linkedin.com/in/bniladridas)
 - Portfolio: [Live Site](https://my-react-developer-app.vercel.app/)
