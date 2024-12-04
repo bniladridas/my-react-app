@@ -35,12 +35,12 @@ const PersonalPortfolio = () => {
             { 
               title: 'Spotify Recommendation Engine', 
               description: 'A music recommendation engine that leverages Spotify API to provide personalized song suggestions.',
-              technologies: ['JavaScript', 'Node.js', 'Express.js']
+              technologies: ['JavaScript', 'Node.js']
             },
             { 
               title: 'AI Chatbot for Code Assistance', 
               description: 'A conversational AI chatbot that assists developers in writing code snippets and debugging.',
-              technologies: ['Python', 'Google Cloud API', 'Flask']
+              technologies: ['Python', 'Flask']
             }
           ].map((project, index) => (
             <div 
