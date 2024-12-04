@@ -6,7 +6,7 @@ First off, thank you for considering contributing to EmeraldFlow Portfolio! It's
 
 ### Reporting Bugs
 
-If you find a bug, please report it by opening an issue on the [GitHub repository](https://github.com/bniladridas/emeraldflow-portfolio/issues). Include as much detail as possible to help us understand and reproduce the issue.
+If you find a bug, please report it by opening an issue on the [GitHub repository](https://github.com/bniladridas/my-react-app/issues). Include as much detail as possible to help us understand and reproduce the issue.
 
 ### Suggesting Enhancements
 
@@ -17,7 +17,7 @@ If you have an idea for an enhancement, please open an issue on the [GitHub repo
 1. **Fork the repository**: Click the "Fork" button on the top right of the repository page.
 2. **Clone your fork**: 
     ```bash
-    git clone https://github.com/your-username/emeraldflow-portfolio.git
+    git clone https://github.com/bniladridsa/my-react-app.git
     cd emeraldflow-portfolio
     ```
 3. **Create a new branch**: 

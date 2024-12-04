@@ -25,8 +25,8 @@ We are excited to announce the first release of the EmeraldFlow Portfolio! This 
 ### 📦 Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/bniladridas/emeraldflow-portfolio.git
-    cd emeraldflow-portfolio
+    git clone https://github.com/bniladridas/my-react-app.git
+    cd my-react-app
     ```
 2. Install dependencies:
     ```bash
